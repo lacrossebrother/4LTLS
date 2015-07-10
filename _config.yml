@@ -1,5 +1,5 @@
 markdown: rdiscount
-permalink: /posts/:title
+permalink: /4LTLS/posts/:title
 rdiscount:
   extensions: [smart]
 
